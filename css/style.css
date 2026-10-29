@@ -226,6 +226,7 @@ h2::after {
 .pub-authors strong { color: var(--text); font-weight: 600; }
 .pub-venue { margin-top: 3px !important; font-style: italic; color: var(--muted); }
 .pub-note { margin-top: 3px !important; color: var(--muted); }
+.pub-venue .award { font-style: normal; font-weight: 600; color: var(--text); }
 .highlight { color: var(--accent); font-style: normal; font-weight: 500; }
 
 .pill {
